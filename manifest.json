@@ -1,0 +1,9 @@
+{
+	"id": "moodboard",
+	"name": "Mood board",
+	"version": "1.0.0",
+	"minAppVersion": "1.4.0",
+	"description": "Display a folder of images from anywhere on disk as a Pinterest-style scrollable mood board.",
+	"author": "fin",
+	"isDesktopOnly": true
+}
