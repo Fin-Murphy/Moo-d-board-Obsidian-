@@ -1,4 +1,4 @@
-# OBSIDIAN MOO'D BOARD 
+# MOO'D BOARD 
 
 <img width="575" height="397" alt="Screenshot 2026-08-25 at 11 32 03 AM" src="https://github.com/user-attachments/assets/4561641e-68b6-47dc-a0da-7765b2b2a2a8" />
 
