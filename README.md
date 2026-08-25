@@ -7,3 +7,7 @@ This is a super simple Obsidian plugin that allows you to specify folders on you
 Simply configure which folders you want to display in your mood board, and open the board anywhere from either the sidebar or the command palette. 
 
 Yes I drew the cow myself. No slop art here. 
+
+## Installation
+
+Clone and drop into your ```.obsidian/plugins``` folder inside your vault. If it doesn't load right away, edit your ```.obsidian/community-plugins.json```. 
